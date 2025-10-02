@@ -1,0 +1,5 @@
+{
+  "name": "AI Interior Designer",
+  "description": "Upload an image of an empty room and receive a professional interior design analysis, including style suggestions, a redesign concept, and AI prompts for visualization.",
+  "requestFramePermissions": []
+}
