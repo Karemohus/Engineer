@@ -1,3 +1,4 @@
+
 export const translations = {
   en: {
     // Header
@@ -6,7 +7,7 @@ export const translations = {
 
     // App
     transformTitle: "Transform Your Space",
-    transformSubtitle: "Upload a photo of your room and let our AI generate a complete interior redesign concept for you.",
+    transformSubtitle: "Upload a photo of any room—empty or furnished—and our AI will replace furniture, change styles, and generate a complete redesign concept for you.",
     analyzeButton: "Design My Room",
     startOverButton: "Start Over with a New Image",
     uploadError: "Please upload an image first.",
@@ -32,7 +33,7 @@ export const translations = {
     customItemsTitle: "Add Specific New Items (Optional)",
     customItemsPlaceholder: "e.g., a specific brand of chair, a family heirloom, a large abstract painting...",
     redesignInstructionsTitle: "Redesign Instructions",
-    redesignInstructionsPlaceholder: "e.g., 'Replace the sofa with a modern one', 'Change the wall color to light blue', 'I want a more minimalist feel', 'Add more plants'...",
+    redesignInstructionsPlaceholder: "Be specific! e.g., 'Remove the red armchair', 'Replace the coffee table with a round wooden one', 'Change the walls to a warm beige color', 'Add a large ficus plant in the corner'.",
     styles: {
       'AI Suggests': 'AI Suggests',
       'Modern': 'Modern',
@@ -86,8 +87,8 @@ export const translations = {
     detailsFurnishing: "Details & Furnishing",
     furnitureAndDecorTitle: "Suggested Furniture & Decor",
     visualizationTitle: "Design Visualization",
-    visualizationReady: "Ready to see the final result? Click the button to generate a photorealistic image of your redesigned room.",
-    visualizeButton: "🎨 Visualize My Room",
+    visualizationReady: "Ready to see the magic? Our AI will now edit your original photo based on the redesign concept, replacing furniture and updating the style.",
+    visualizeButton: "🎨 Redesign My Room",
     photorealisticView: "Photorealistic",
     threeDView: "3D Render",
     twoDView: "2D Floor Plan",
@@ -121,7 +122,7 @@ export const translations = {
 
     // App
     transformTitle: "حوّل مساحتك",
-    transformSubtitle: "ارفع صورة لغرفتك ودع الذكاء الاصطناعي يصمم لك مفهوم إعادة تصميم داخلي متكامل.",
+    transformSubtitle: "ارفع صورة لأي غرفة—فارغة أو مفروشة—وسيقوم الذكاء الاصطناعي لدينا باستبدال الأثاث وتغيير الأنماط وإنشاء مفهوم إعادة تصميم كامل لك.",
     analyzeButton: "صمم غرفتي",
     startOverButton: "ابدأ من جديد بصورة أخرى",
     uploadError: "يرجى رفع صورة أولاً.",
@@ -147,7 +148,7 @@ export const translations = {
     customItemsTitle: "أضف عناصر جديدة محددة (اختياري)",
     customItemsPlaceholder: "مثال: كرسي من ماركة معينة، قطعة أثرية عائلية، لوحة فنية تجريدية كبيرة...",
     redesignInstructionsTitle: "تعليمات إعادة التصميم",
-    redesignInstructionsPlaceholder: "مثال: 'استبدل الأريكة بأخرى عصرية'، 'غير لون الحائط إلى الأزرق الفاتح'، 'أريد طابعًا أكثر بساطة'، 'أضف المزيد من النباتات'...",
+    redesignInstructionsPlaceholder: "كن محددًا! مثال: 'أزل الكرسي الأحمر ذو الذراعين'، 'استبدل طاولة القهوة بأخرى خشبية مستديرة'، 'غير لون الجدران إلى البيج الدافئ'، 'أضف نبتة فيكس كبيرة في الزاوية'.",
     styles: {
       'AI Suggests': 'اقتراح الذكاء الاصطناعي',
       'Modern': 'حديث',
@@ -201,8 +202,8 @@ export const translations = {
     detailsFurnishing: "التفاصيل والتأثيث",
     furnitureAndDecorTitle: "الأثاث والديكور المقترح",
     visualizationTitle: "تصور التصميم",
-    visualizationReady: "هل أنت مستعد لرؤية النتيجة النهائية؟ انقر على الزر لإنشاء صورة واقعية لغرفتك بعد إعادة تصميمها.",
-    visualizeButton: "🎨 تصور غرفتي",
+    visualizationReady: "هل أنت مستعد لرؤية السحر؟ سيقوم الذكاء الاصطناعي الآن بتعديل صورتك الأصلية بناءً على مفهوم إعادة التصميم، واستبدال الأثاث وتحديث النمط.",
+    visualizeButton: "🎨 أعد تصميم غرفتي",
     photorealisticView: "واقعي",
     threeDView: "عرض ثلاثي الأبعاد",
     twoDView: "مخطط ثنائي الأبعاد",
